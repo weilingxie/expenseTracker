@@ -1,9 +1,9 @@
 This project is created by following tutorial 'Build an Expense Tracker | React Hooks & Context API'
 
-##React Hooks includes:
-###useState
-###useContext
-###useReducer
+## React Hooks includes:
+### useState
+### useContext
+### useReducer
 
 ## Available Scripts
 
